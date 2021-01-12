@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">nwHacks_2021</string>
+    <string name="tips">Based on your responses, here are some suggestions:</string>
+    <string name="hello">Hello</string>
+    <string name="introduction">CogniBuddy is an app that identifies possible mental illness symptoms
+        and provides tips and tricks to help lessen the strain and improve your mood. It also provides a series of tasks to complete everyday to help you feel better
+    and keep you energized. So, are you ready?</string>
+    <string name="great_job_n_nthank_you_for_taking_the_effort_to_improve_yourself">Great Job! Thank you for taking the effort to improve yourself :)</string>
+
+    <string-array name="symptoms">
+        <item>Feeling restless, wound-up, or on-edge</item>
+        <item>Being easily fatigued</item>
+        <item>Having difficulty concentrating; mind going blank</item>
+        <item>Being irritable</item>
+        <item>Having muscle tension</item>
+        <item>Suicidal thoughts or attempts</item>
+        <item>Increased or heavy sweating</item>
+        <item>Feelings of danger, panic, or dread</item>
+        <item>Obsessions about certain ideas, a sign of OCD</item>
+        <item>Difficulty controlling feelings of worry</item>
+        <item>Feelings of guilt, worthlessness, and helplessness</item>
+        <item>Pessimism and hopelessness</item>
+        <item>Insomnia or sleeping too much</item>
+        <item>Loss of interest in things once pleasurable</item>
+        <item>Overeating, or appetite loss</item>
+        <item>Digestive problems that don\'t get better</item>
+        <item>Persistent sad, anxious, or empty feelings</item>
+        <item>Aches, pains, headaches, or cramps that won\'t go away</item>
+    </string-array>
+
+    <string-array name="tips_depression">
+        <item>Practice calm, deep breathing</item>
+        <item>Try to keep up with social activities</item>
+        <item>Try to have a good sleep hygiene</item>
+        <item>Learn to stop having negative thoughts</item>
+        <item>Reward your efforts</item>
+        <item>Boost your self image</item>
+        <item>Watch a funny video :)</item>
+        <item>Connect with nature</item>
+        <item>Set attainable goals</item>
+        <item>Try to create a routine</item>
+        <item>Spend time with loved ones</item>
+        <item>Consider clinical treatment</item>
+    </string-array>
+
+    <string-array name="tips_anxiety">
+        <item>Keep up a good diet</item>
+        <item>Listen to calming music</item>
+        <item>Maintain a positive attitude</item>
+        <item>Ease up on caffeine and/or alcohol</item>
+        <item>Stay away from sugar</item>
+        <item>Practice calm, deep breathing</item>
+        <item>Watch a funny video :)</item>
+        <item>Accept that you cannot control everything</item>
+        <item>Set small daily goals</item>
+        <item>Help out in your community</item>
+        <item>Be the boss of your thoughts</item>
+        <item>Figure out what is bothering you</item>
+    </string-array>
+
+    <string-array name ="checklist">
+        <item>Eat a healthy breakfast</item>
+        <item>Drink 2L of water to stay hydrated</item>
+        <item>Go for a 15 minute walk</item>
+        <item>Sleep 7 to 9 hours</item>
+        <item>Go to the gym for 30 minutes</item>
+        <item>Practice meditation for 10 minutes</item>
+        <item>Refrain from eating/buying junk food today</item>
+        <item>Message/talk to a friend</item>
+        <item>Go to bed 30 minutes earlier</item>
+        <item>Make an effort to improve your posture</item>
+        <item>Drink green tea</item>
+        <item>Reduce alcohol consumption</item>
+        <item>Eat healthy fats such as Avocados or nuts</item>
+        <item>Do 10 push ups</item>
+        <item>Practice stretching for 5 minutes</item>
+        <item>Read a good book</item>
+    </string-array>
+
+</resources>
